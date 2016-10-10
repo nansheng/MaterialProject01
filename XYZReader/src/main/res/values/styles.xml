@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Material Design -->
+    <style name="Theme.Material" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/theme_primary</item>
+        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowContentTransitions">true</item>
+
+    </style>
+    <style name="Theme.Material.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+</resources>

@@ -1,0 +1,7 @@
+#Mon Oct 10 03:43:14 EDT 2016
+base.0=/Users/lonejourneyman/AndroidStudioProjects/MaterialProject01/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2d046822125b12ac5729bb94c0c851edfbae9a7b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/lonejourneyman/AndroidStudioProjects/MaterialProject01/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8429262e05cfb51c3f64fea8835ff6eb48e5111b/classes.dex
+base.1=/Users/lonejourneyman/AndroidStudioProjects/MaterialProject01/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8429262e05cfb51c3f64fea8835ff6eb48e5111b
+file.0=/Users/lonejourneyman/AndroidStudioProjects/MaterialProject01/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2d046822125b12ac5729bb94c0c851edfbae9a7b/classes.dex
